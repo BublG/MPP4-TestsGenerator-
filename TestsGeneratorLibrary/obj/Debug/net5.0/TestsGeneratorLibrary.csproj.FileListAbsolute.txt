@@ -1,0 +1,12 @@
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\bin\Debug\net5.0\TestsGeneratorLibrary.deps.json
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\bin\Debug\net5.0\TestsGeneratorLibrary.dll
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\bin\Debug\net5.0\ref\TestsGeneratorLibrary.dll
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\bin\Debug\net5.0\TestsGeneratorLibrary.pdb
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\obj\Debug\net5.0\TestsGeneratorLibrary.csproj.AssemblyReference.cache
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\obj\Debug\net5.0\TestsGeneratorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\obj\Debug\net5.0\TestsGeneratorLibrary.AssemblyInfoInputs.cache
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\obj\Debug\net5.0\TestsGeneratorLibrary.AssemblyInfo.cs
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\obj\Debug\net5.0\TestsGeneratorLibrary.csproj.CoreCompileInputs.cache
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\obj\Debug\net5.0\TestsGeneratorLibrary.dll
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\obj\Debug\net5.0\ref\TestsGeneratorLibrary.dll
+D:\учеба\СПП\TestsGenerator\TestsGeneratorLibrary\obj\Debug\net5.0\TestsGeneratorLibrary.pdb
